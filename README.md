@@ -48,5 +48,9 @@ BACK=F5
 START=ENTER
 ```
 
+## Credits
+- `XInput.pas` — XInput for Delphi by Alexey Barkovoy (Clootie), via Project JEDI.
+- [Claude AI](https://claude.ai) — for help with development.
+
 ## Feedback
 `r57zone@gmail.com`
